@@ -1,0 +1,16 @@
+{
+  "name": "hodl-api",
+  "version": "1.0.0",
+  "description": "JSON API which returns HODL token data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HODLer082",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  }
+}
